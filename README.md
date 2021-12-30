@@ -7,7 +7,7 @@ This repository contains code for the Sticky_Note project.
 
 Sticky_Notes is an aplication which you can use to make a list or a timetable that you want to look at everytime you visit your smartphones home screen.
 
-<img src="https://user-images.githubusercontent.com/73274912/147785070-1406e7c0-9d60-4edf-a86e-89631c036480.jpeg" width=25% height="500" alt="Main">           <img src="https://user-images.githubusercontent.com/73274912/147785068-c0b51285-7c1e-4862-a6e8-4851854df018.jpeg" width=25% height="500" alt="Widget">
+<img src="https://user-images.githubusercontent.com/73274912/147785070-1406e7c0-9d60-4edf-a86e-89631c036480.jpeg" width=30% height="500" alt="Main">           <img src="https://user-images.githubusercontent.com/73274912/147785068-c0b51285-7c1e-4862-a6e8-4851854df018.jpeg" width=30% height="500" alt="Widget">
 
 # Device permissions
 *App needs the following user's permissions to provide the featured functionality*
