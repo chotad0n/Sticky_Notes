@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "598843515276",
+    "project_id": "sticky-notes-20a42",
+    "storage_bucket": "sticky-notes-20a42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598843515276:android:62f3240fe59888e7ab76a9",
+        "android_client_info": {
+          "package_name": "com.example.mojstick2019_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598843515276-p40avgil6pmufdrveh66dqsmovikts7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7xqwRFbphqys2KZv-UTFlTpWgh1CqVQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598843515276-p40avgil6pmufdrveh66dqsmovikts7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598843515276:android:4b91df8a05a9cfe8ab76a9",
+        "android_client_info": {
+          "package_name": "com.example.stickynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598843515276-p40avgil6pmufdrveh66dqsmovikts7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7xqwRFbphqys2KZv-UTFlTpWgh1CqVQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598843515276-p40avgil6pmufdrveh66dqsmovikts7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
